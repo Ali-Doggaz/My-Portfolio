@@ -90,7 +90,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [Linkedin](https://www.linkedin.com/in/ali-doggaz-7052431b9/) - charfedine611@gmail.com
+Ali Doggaz - [Linkedin](https://www.linkedin.com/in/ali-doggaz-7052431b9/) - charfedine611@gmail.com
 
 Project Link: [https://github.com/Ali-Doggaz/My-Portfolio](https://github.com/Ali-Doggaz/My-Portfolio)
 
@@ -101,3 +101,4 @@ Project Link: [https://github.com/Ali-Doggaz/My-Portfolio](https://github.com/Al
 * [HTML5UP (design)](https://html5up.net/)
 * [MLH](https://mlh.io/)
 * [GitHub Pages](https://pages.github.com)
+
