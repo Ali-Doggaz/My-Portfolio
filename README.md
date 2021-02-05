@@ -98,7 +98,7 @@ Project Link: [https://github.com/Ali-Doggaz/My-Portfolio](https://github.com/Al
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [HTML5UP for their amazing template](https://html5up.net/)
+* [HTML5UP for their amazing template (Hyperspace)](https://html5up.net/)
 * [MLH](https://mlh.io/)
 * [GitHub Pages](https://pages.github.com)
 
