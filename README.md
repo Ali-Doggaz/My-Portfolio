@@ -30,7 +30,7 @@ This is my Portfolio, and the very first website I ever worked on! It reflects m
 
 ### Built With
 
-
+I used HTML5UP's Hyperspace template, and modified it by adding some features such as the Clubs' section.
 * [Javascript](https://www.javascript.com/)
 * [HTML and CSS](https://en.wikipedia.org/wiki/HTML)
 * [SCSS](https://sass-lang.com/)
