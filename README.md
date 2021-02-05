@@ -24,7 +24,7 @@
 ## About The Project
 
 ### Presentation
-![alt text] (https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/d/dc/Portfolio.hu_full_logo.png)
 
 This is my Portfolio, and the very first website I ever worked on! It reflects my story from High School to university, and it also contains many sections that reflect my projects, clubs, contact info, etc... 
 
